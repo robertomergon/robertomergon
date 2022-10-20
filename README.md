@@ -15,7 +15,7 @@
 <li>💼 I'm also working as a FullStack Developer specialised in Frontend for web applications</li>
 <hr/>
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
-[![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](https://go.dev/)
+
 
 
 
