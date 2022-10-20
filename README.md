@@ -15,7 +15,6 @@
 <li>💼 I'm also working as a FullStack Developer specialised in Frontend for web applications</li>
 <hr/>
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
-![VUEJS] (https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 
 <!--
