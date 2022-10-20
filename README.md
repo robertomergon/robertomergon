@@ -15,8 +15,7 @@
 <li>💼 I'm also working as a FullStack Developer specialised in Frontend for web applications</li>
 <hr/>
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
-![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
-
+[![VUE](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
 
 <!--
 **robertomergon/robertomergon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
