@@ -18,7 +18,7 @@
 <div>
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" title="Vue.js" alt="Vue.js"/>&nbsp;
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript"/>&nbsp;
-  <img src="https://img.shields.io/badge/javscript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/javscript-%f6c801.svg?style=for-the-badge&logo=javascript&logoColor=white" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" alt="Python"/>&nbsp;
   <br/>
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
