@@ -11,9 +11,9 @@
 </div>
 <hr/>
 <h3>:man_technologist: About Me :</h3> I'm a FullStack Dev from Spain.
+<li>🤠 My Pronouns: he/him</li>
 <li>📚 Currently, I'm studying Computing Engineering Bachelors Degree at the University of Salamanca </li>
 <li>💼 I'm also working as a FullStack Developer specialised in Frontend for web applications</li>
-<li>🤠 Pronouns: he/him</li>
 <hr/>
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
 <div>
@@ -31,18 +31,3 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="VSCode" alt="VSCode"/>&nbsp;
   
 </div>
-
-<!--
-**robertomergon/robertomergon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 
-- ⚡ Fun fact: ...
--->
