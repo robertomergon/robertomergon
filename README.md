@@ -13,6 +13,7 @@
 <h3>:man_technologist: About Me :</h3> I'm a FullStack Dev from Spain.
 <li>📚 Currently, I'm studying Computing Engineering Bachelors Degree at the University of Salamanca </li>
 <li>💼 I'm also working as a FullStack Developer specialised in Frontend for web applications</li>
+<li>🤠 Pronouns: he/him</li>
 <hr/>
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
 <div>
@@ -42,6 +43,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: he/him
+- 
 - ⚡ Fun fact: ...
 -->
