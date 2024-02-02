@@ -12,7 +12,7 @@
 <hr/>
 <h3>:man_technologist: About Me :</h3> I'm a FullStack Dev from Spain.
 <li>🤠 My Pronouns: he/him</li>
-<li>📚 Currently, I'm studying Computing Engineering Bachelors Degree at the University of Salamanca </li>
+<li>📚 I'm a Computing Engineer and i'm also studying a Master in Artificial Intelligence at International University of Valencia</li>
 <li>💼 I'm also working as a FullStack Developer specialised in Frontend for web applications</li>
 <hr/>
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
