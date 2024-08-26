@@ -7,7 +7,6 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=robertomergon&style=flat-square&color=blue" alt=""/>
   <h1>Hi there 👋🤠</h1>
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" />
 </div>
 <hr/>
 <h3>:man_technologist: About Me :</h3> I'm a FullStack Dev from Spain.
