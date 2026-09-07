@@ -9,7 +9,7 @@
   <h1>Hi there 👋🤠</h1>
 </div>
 <hr/>
-<h3>:man_technologist: About Me :</h3> I'm a Frontend Developer from Spain, moving into AI / NLP.
+<h3>:man_technologist: About Me :</h3> I'm a Frontend Developer from Spain, moving into AI.
 <li>🤠 My Pronouns: he/him</li>
 <li>📚 Computer Engineer, and I hold a Master's in Artificial Intelligence from International University of Valencia </li>
 <li>💼 Frontend Developer building web apps, with hands-on experience integrating LLMs (OpenAI API) into production</li>
